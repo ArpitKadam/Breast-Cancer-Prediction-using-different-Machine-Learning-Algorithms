@@ -24,7 +24,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Usage
 ### Clone the repository:
 Copy code
-git clone https://github.com/ArpitKadan/Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms.git
+git clone https://github.com/ArpitKadan/Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms
  
 ## Modeling
 The project explores several machine learning algorithms, including:
